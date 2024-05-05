@@ -1,12 +1,4 @@
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-    
-&nbsp; <br> [![Discord Presence](https://lanyard.cnrad.dev/api/751067099295645707)](https://discord.com/users/751067099295645707)
 
-<br />
-
-    
   </td>
 </table>
 
