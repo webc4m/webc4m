@@ -3,11 +3,7 @@
   <td width="50%">
     
 &nbsp; <br> [![Discord Presence](https://lanyard.cnrad.dev/api/751067099295645707)](https://discord.com/users/751067099295645707)
-    
-  </td>
-  <td width="50%">
-    
-&nbsp; <br> [![Code Time Stats](https://github-readme-stats.vercel.app/api/pin/wakatime?username=webc4m&show_icons=true&bg_color=1A1C1F&hide_border=true&text_color=fff&title_color=fff&langs_count=5&line_height=34)]()
+
 <br />
 
     
