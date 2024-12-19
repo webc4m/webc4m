@@ -2,7 +2,7 @@
   </td>
 </table>
 
-## Hi, my name's Lukas (a.k.a webc4m)
+## Hi, my name's Delta (a.k.a webc4m)
 I am a developer from Germany. 
 
 ## 🔨 Languages and Tools
@@ -10,3 +10,4 @@ I am a developer from Germany.
 
 ![html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+Contact: d2ltadaylol@gmail.com
